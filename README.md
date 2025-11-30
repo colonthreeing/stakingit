@@ -2,4 +2,4 @@
 
 -# why the weird name? idk
 
-the code in this mod is *heavily* based on the code in [JokerDislplay](https://github.com/nh6574/JokerDisplay)
+the code in this mod is *heavily* based on the code in [JokerDisplay](https://github.com/nh6574/JokerDisplay)
