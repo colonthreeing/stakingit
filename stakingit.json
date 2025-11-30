@@ -1,0 +1,12 @@
+{
+    "id": "stakingit",
+    "name": "Staking It",
+    "author": ["colonthreeing"],
+    "description": "meow meow meow meow meow",
+    "prefix": "mymod",
+    "main_file": "main.lua",
+    "priority": 0,
+    "version": "0.1.0",
+    "dependencies": ["Steamodded (>=1.*)", "Lovely (>=0.6)"],
+    "conflicts": []
+}
